@@ -26,7 +26,6 @@ demographic, diagnostic, and treatment-related features.
 - ROC-AUC
 
 ## Results
-(Short summary of findings)
 
 ## Tech Stack
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
