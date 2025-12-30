@@ -30,7 +30,12 @@ demographic, diagnostic, and treatment-related features.
 ## Tech Stack
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
-## Future Work
-- Model deployment
-- Bias analysis
-- Model monitoring
+## Project Structure
+- `notebooks/`: exploratory analysis and visualizations
+- `src/`: production-style training and evaluation scripts
+- `models/`: saved trained models
+
+## How to Run
+```bash
+python src/train.py
+python src/evaluate.py
